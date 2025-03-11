@@ -15,7 +15,8 @@ print()
 # emoji are nice
 print("Hello \U0001F30D")
 print("Hello \U0001F30E")
-print("Hello \U0001F30F\n")
+print("Hello \U0001F30F")
+print()
 
 # answer the age-old question (at least for Python)
 data = ['\U0001F95A', '\U0001F414']  

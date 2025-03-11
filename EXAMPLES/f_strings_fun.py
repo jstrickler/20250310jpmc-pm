@@ -4,6 +4,7 @@ name = "Guido"
 print(f"name: {name}")
 # < left justify (default for non-numbers), 10 is field width, s formats a string
 print(f"name: [{name:<10s}]") 
+print(f"name: [{name:10s}]") 
 # > right justify
 print(f"name: [{name:>10s}]")
 # >. right justify and pad with dots
@@ -31,7 +32,7 @@ print()
 amount = .325482039
 print(f"amount: {amount}")
 print(f"amount: {amount:.2f}")  # round to 2 decimal places
-print(f"amount: {amount:.2%}")  # convert to percent
+print(f"amount: {amount:.1%}")  # convert to percent
 print()
 
 # fun with functions
