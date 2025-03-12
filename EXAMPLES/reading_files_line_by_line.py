@@ -9,6 +9,6 @@ with open(FILE_PATH) as mary_in:  # open file for reading
     for raw_line in mary_in:
         # rstrip() removes whitespace (including \n or \r ) 
         # from end of string
-        line = raw_line.rstrip()
+        line = raw_line.rstrip('\n\r')  # remove sp tab \n \r
         print(line)
 
