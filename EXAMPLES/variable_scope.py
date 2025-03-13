@@ -20,3 +20,10 @@ print()  # blank line
 ham()
 print()
 eggs("green")
+
+
+def print(*args):
+    __builtins__.print(*args)
+    __builtins__.print("EXTRA STUFF")
+
+print("hello world")

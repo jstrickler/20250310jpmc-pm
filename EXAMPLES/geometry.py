@@ -11,6 +11,18 @@ import math   # load math.py
 
 PI = math.pi
 
+def main():
+    print("HELLOOOOOOOO EVERYBODY")
+    area1 = square_area(15)
+    print(f"area1: {area1}")
+    
+    area2 = circle_area(22)
+    print(f"area2: {area2}")
+    
+    area3 = rectangle_area(9, 13)
+    print(f"area3: {area3}")
+
+
 def circle_area(diameter):
     """
     Compute the area of a circle from a given diameter
@@ -21,7 +33,7 @@ def circle_area(diameter):
     radius = diameter / 2
     return PI * (radius ** 2)
 
-def rectangle_area(length, width):
+def rectangle_area(length, width):  # rectangle_area(5, 10)    find_word("wombat", animals.txt, ignore_case=True)
     """
     Compute the area of a rectangle.
 
@@ -40,12 +52,5 @@ def square_area(side):
     """
     return side ** 2
 
-if __name__ == "__main__":
-    area1 = square_area(15)
-    print(f"area1: {area1}")
-    
-    area2 = circle_area(22)
-    print(f"area2: {area2}")
-    
-    area3 = rectangle_area(9, 13)
-    print(f"area3: {area3}")
+if __name__ == "__main__":  # if this script executed directly 
+    main()

@@ -1,0 +1,72 @@
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero
+ERROR:root:Logging with exception info
+Traceback (most recent call last):
+  File "c:\Python_Intro\EXAMPLES\logging_exception.py", line 10, in <module>
+    result = i/0
+             ~^~
+ZeroDivisionError: division by zero

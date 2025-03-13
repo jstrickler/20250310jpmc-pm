@@ -1,4 +1,7 @@
-from geometry import *
+from geometry import *  # non-private
+
+print(f"{PI = }")
+
 
 circle = circle_area(8)
 print(f"{circle = }")

@@ -4,6 +4,8 @@ def get_hello():
 h = get_hello() 
 print(f"{h = }")
 
+print(get_hello())
+
 def hello():
     print("Hello, world")
 

@@ -1,0 +1,48 @@
+INFO root 03/13/25-20:48:28 logging_formatted.py 10 this is information
+WARNING root 03/13/25-20:48:28 logging_formatted.py 11 this is a warning
+ERROR root 03/13/25-20:48:28 logging_formatted.py 12 this is an ERROR
+ERROR root 03/13/25-20:48:28 logging_formatted.py 14 Invalid value 38.7
+INFO root 03/13/25-20:48:28 logging_formatted.py 15 this is information
+CRITICAL root 03/13/25-20:48:28 logging_formatted.py 16 this is critical
+INFO root 03/13/25-20:48:29 logging_formatted.py 10 this is information
+WARNING root 03/13/25-20:48:29 logging_formatted.py 11 this is a warning
+ERROR root 03/13/25-20:48:29 logging_formatted.py 12 this is an ERROR
+ERROR root 03/13/25-20:48:29 logging_formatted.py 14 Invalid value 38.7
+INFO root 03/13/25-20:48:29 logging_formatted.py 15 this is information
+CRITICAL root 03/13/25-20:48:29 logging_formatted.py 16 this is critical
+INFO root 03/13/25-20:48:29 logging_formatted.py 10 this is information
+WARNING root 03/13/25-20:48:29 logging_formatted.py 11 this is a warning
+ERROR root 03/13/25-20:48:29 logging_formatted.py 12 this is an ERROR
+ERROR root 03/13/25-20:48:29 logging_formatted.py 14 Invalid value 38.7
+INFO root 03/13/25-20:48:29 logging_formatted.py 15 this is information
+CRITICAL root 03/13/25-20:48:29 logging_formatted.py 16 this is critical
+INFO root 03/13/25-20:48:30 logging_formatted.py 10 this is information
+WARNING root 03/13/25-20:48:30 logging_formatted.py 11 this is a warning
+ERROR root 03/13/25-20:48:30 logging_formatted.py 12 this is an ERROR
+ERROR root 03/13/25-20:48:30 logging_formatted.py 14 Invalid value 38.7
+INFO root 03/13/25-20:48:30 logging_formatted.py 15 this is information
+CRITICAL root 03/13/25-20:48:30 logging_formatted.py 16 this is critical
+INFO root 03/13/25-20:48:31 logging_formatted.py 10 this is information
+WARNING root 03/13/25-20:48:31 logging_formatted.py 11 this is a warning
+ERROR root 03/13/25-20:48:31 logging_formatted.py 12 this is an ERROR
+ERROR root 03/13/25-20:48:31 logging_formatted.py 14 Invalid value 38.7
+INFO root 03/13/25-20:48:31 logging_formatted.py 15 this is information
+CRITICAL root 03/13/25-20:48:31 logging_formatted.py 16 this is critical
+INFO root 03/13/25-20:53:18 logging_formatted.py 10 this is information hello
+WARNING root 03/13/25-20:53:18 logging_formatted.py 11 this is a warning hello
+ERROR root 03/13/25-20:53:18 logging_formatted.py 12 this is an ERROR hello
+ERROR root 03/13/25-20:53:18 logging_formatted.py 14 Invalid value 38.7 hello
+INFO root 03/13/25-20:53:18 logging_formatted.py 15 this is information hello
+CRITICAL root 03/13/25-20:53:18 logging_formatted.py 16 this is critical hello
+INFO root 03/13/25-20:53:19 logging_formatted.py 10 this is information hello
+WARNING root 03/13/25-20:53:19 logging_formatted.py 11 this is a warning hello
+ERROR root 03/13/25-20:53:19 logging_formatted.py 12 this is an ERROR hello
+ERROR root 03/13/25-20:53:19 logging_formatted.py 14 Invalid value 38.7 hello
+INFO root 03/13/25-20:53:19 logging_formatted.py 15 this is information hello
+CRITICAL root 03/13/25-20:53:19 logging_formatted.py 16 this is critical hello
+INFO root 03/13/25-20:53:19 logging_formatted.py 10 this is information hello
+WARNING root 03/13/25-20:53:19 logging_formatted.py 11 this is a warning hello
+ERROR root 03/13/25-20:53:19 logging_formatted.py 12 this is an ERROR hello
+ERROR root 03/13/25-20:53:19 logging_formatted.py 14 Invalid value 38.7 hello
+INFO root 03/13/25-20:53:19 logging_formatted.py 15 this is information hello
+CRITICAL root 03/13/25-20:53:19 logging_formatted.py 16 this is critical hello

@@ -58,5 +58,4 @@ def get_field_value(knight_info, knight, field_index):
     """
     return knight_info[knight][field_index]
 
-if __name__ == "__main__":
-    main()
+main()
